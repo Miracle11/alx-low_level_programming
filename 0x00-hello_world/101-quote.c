@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* 
- * Using system instead of printf
- * and put
+/**
+ * main
+ * Return: Always 1 (Success)
  */
 
 int main(void)
